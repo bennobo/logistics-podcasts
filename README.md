@@ -2,4 +2,13 @@
 
 A selection of podcasts dedicated to freight and logistics.
 
-![Containers](containers.jpg)
+
+<table>
+
+	<tr>
+	
+		<td>![Containers](containers.jpg)</td>
+		
+	</tr>
+	
+<table>
