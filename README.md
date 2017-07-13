@@ -2,13 +2,4 @@
 
 A selection of podcasts dedicated to freight and logistics.
 
-
-<table>
-
-	<tr>
-	
-		<td>![Containers](containers.jpg)</td>
-		
-	</tr>
-	
-<table>
+| ![Containers](containers.jpg) | Containers | [https://soundcloud.com/containersfmg)] |
