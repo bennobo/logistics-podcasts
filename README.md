@@ -6,6 +6,7 @@ A selection of podcasts dedicated to transportation, freight and logistics.
 | :--- |:---| :--- |
 | ![Asymcar](cover/asymcar.png) | Asymcar | http://5by5.tv/asymcar |
 | ![Containers](cover/containers.png) | Containers | https://soundcloud.com/containersfmg |
+| ![Inbound Logistics](cover/inbound-logistics.png) | Inbound Logistics | http://www.inboundlogistics.com/cms/podcast/ |
 | ![ISM Podcasts](cover/ism-podcasts.png) | ISM Podcasts | https://www.instituteforsupplymanagement.org/Podcasts/ |
 | ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
 | ![Talking Logistics](cover/talking-logistics.png) | Talking Logistics | https://talkinglogistics.com |
