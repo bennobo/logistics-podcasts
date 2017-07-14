@@ -6,9 +6,9 @@ A selection of podcasts dedicated to transportation, freight and logistics.
 | :--- |:---| :--- |
 | ![Asymcar](cover/asymcar.png) | Asymcar | http://5by5.tv/asymcar |
 | ![Containers](cover/containers.png) | Containers | https://soundcloud.com/containersfmg |
-| ![JOC.com ](cover/joc.png) | JOC.com  | https://soundcloud.com/the-journal-of-commerce |
 | ![ICC Logistics](cover/icc-logistics.png) | ICC Logistics | https://itunes.apple.com/us/podcast/icc-logistics/id1021736846 |
 | ![Inbound Logistics](cover/inbound-logistics.png) | Inbound Logistics | http://www.inboundlogistics.com/cms/podcast |
+| ![JOC.com ](cover/joc.png) | JOC.com  | https://soundcloud.com/the-journal-of-commerce |
 | ![ISM Podcasts](cover/ism-podcasts.png) | ISM Podcasts | https://www.instituteforsupplymanagement.org/Podcasts |
 | ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
 | ![Straight Talk With Supply Chain Insights](cover/straight-talk-with-supply-chain-insights.png) | Straight Talk With Supply Chain Insights | https://itunes.apple.com/us/podcast/straight-talk-supply-chain/id664901377 |
