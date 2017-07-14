@@ -1,9 +1,10 @@
 # Logistics Podcasts
 
-A selection of podcasts dedicated to freight and logistics.
+A selection of podcasts dedicated to transportation, freight and logistics.
 
 | Cover | Title | Website |
 | :--- |:---| :--- |
+| ![Asymcar](cover/asymcar.png) | Asymcar | http://5by5.tv/asymcar |
 | ![Containers](cover/containers.png) | Containers | https://soundcloud.com/containersfmg |
 | ![ISM Podcasts](cover/ism-podcasts.png) | ISM Podcasts | https://www.instituteforsupplymanagement.org/Podcasts/ |
 | ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
