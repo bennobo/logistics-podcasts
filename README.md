@@ -14,4 +14,6 @@ A selection of podcasts dedicated to transportation, freight and logistics.
 | ![Supply Chain and Logistics Management](cover/supply-chain-and-logistics-management.png) | Supply Chain and Logistics Management | https://itunes.apple.com/itunes-u/supply-chain-logistics-management/id447339850 |
 | ![Supply Chain Radio](cover/supply-chain-radio.png) | Supply Chain Radio | https://itunes.apple.com/de/podcast/supply-chain-radio/id983423048 |
 
-Brought to you by [Riege Software](https://www.riege.com)
+## Credits
+
+Brought to you by [Riege Software](https://www.riege.com).
