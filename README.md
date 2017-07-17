@@ -17,6 +17,7 @@ A selection of podcasts dedicated to transportation, freight and logistics.
 | ![Supply Chain Secrets](cover/supply-chain-secrets.png) | Supply Chain Secrets | http://www.logisticsbureau.com/podcasts/ |
 | ![SupplyChainBrain](cover/supplychainbrain.png) | SupplyChainBrain | https://itunes.apple.com/us/podcast/the-supplychainbrain-podcast/id898142329 |
 | ![Talking Logistics](cover/talking-logistics.png) | Talking Logistics | https://talkinglogistics.com |
+| ![The Loadstar](cover/the-loadstar.png) | The Loadstar | https://soundcloud.com/the-loadstar |
 | ![Triskele Logistics - CMI Podcast](cover/triskele-logistics.png) | Triskele Logistics - CMI Podcast | https://soundcloud.com/user-380624060 |
 | ![XPO Logistics Less-Than-Truckload](cover/xpo-logistics.png) | XPO Logistics Less-Than-Truckload | https://itunes.apple.com/us/podcast/xpo-logistics-less-than-truckload/id1095360303 |
 
