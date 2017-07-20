@@ -1,6 +1,6 @@
 # Logistics Podcasts
 
-A selection of podcasts dedicated to transportation, freight and logistics.
+A selection of podcasts on Supply Chain and Logistics.
 
 | Cover | Title | Website |
 | :--- |:---| :--- |
