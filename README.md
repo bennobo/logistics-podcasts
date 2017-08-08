@@ -22,6 +22,11 @@ A selection of podcasts on Supply Chain and Logistics.
 | ![Triskele Logistics - CMI Podcast](cover/triskele-logistics.png) | Triskele Logistics - CMI Podcast | https://soundcloud.com/user-380624060 |
 | ![XPO Logistics Less-Than-Truckload](cover/xpo-logistics.png) | XPO Logistics Less-Than-Truckload | https://itunes.apple.com/us/podcast/xpo-logistics-less-than-truckload/id1095360303 |
 
+## Single Episodes
+
+* [With $50M Raised, He’s Leading Cargo Container Software Space (Nathan Latka)](http://nathanlatka.com/thetop733)  
+In Episode #733, Nathan interviews Zvi Schreiber, founder and CEO of Freightos
+
 ## Credits
 
 Brought to you by [Riege Software](https://www.riege.com).
