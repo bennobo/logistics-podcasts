@@ -4,7 +4,6 @@ A selection of podcasts on Supply Chain and Logistics.
 
 | Cover | Title | Website |
 | :--- |:---| :--- |
-| ![Asymcar](cover/asymcar.png) | Asymcar | http://5by5.tv/asymcar |
 | ![Containers](cover/containers.png) | Containers | https://soundcloud.com/containersfmg |
 | ![ICC Logistics](cover/icc-logistics.png) | ICC Logistics | https://itunes.apple.com/us/podcast/icc-logistics/id1021736846 |
 | ![Inbound Logistics](cover/inbound-logistics.png) | Inbound Logistics | http://www.inboundlogistics.com/cms/podcast |
