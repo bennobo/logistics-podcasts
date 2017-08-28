@@ -26,7 +26,7 @@ A selection of podcasts on Supply Chain and Logistics.
 
 ## Single Episodes
 
-* [The Empire Strikes Back (Asymcar. Epsiode #34)](http://5by5.tv/asymcar/34)  
+* [The Empire Strikes Back (Asymcar by Horace Dediu, Epsiode #34)](http://5by5.tv/asymcar/34)  
 Joe Rosmann shares his experience and perspective on our changing transportation system - "the most regulated industry we have".
 * [With $50M Raised, He’s Leading Cargo Container Software Space (Nathan Latka)](http://nathanlatka.com/thetop733)  
 In Episode #733, Nathan interviews Zvi Schreiber, founder and CEO of Freightos
