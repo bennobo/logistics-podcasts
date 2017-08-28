@@ -1,4 +1,4 @@
-# Supply Chain Podcasts
+# Supply Chain and Logistics Podcasts
 
 A selection of podcasts on Supply Chain and Logistics.
 
