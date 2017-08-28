@@ -32,6 +32,4 @@ In Episode #733, Nathan interviews Zvi Schreiber, founder and CEO of Freightos
 
 Brought to you by [Riege Software](https://www.riege.com).
 
-![Riege Software](riege-software.svg)
-
-<a href="https://www.riege.com" title="Riege Software"><img src="riege-software.svg" width="200" height="46" alt="Riege Software"></a>
+<a href="https://www.riege.com" title="Riege Software"><img src="riege-software.png" width="200" height="46" alt="Riege Software"></a>
