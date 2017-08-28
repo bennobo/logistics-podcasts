@@ -27,6 +27,7 @@ A selection of podcasts on Supply Chain and Logistics.
 
 * [With $50M Raised, He’s Leading Cargo Container Software Space (Nathan Latka)](http://nathanlatka.com/thetop733)  
 In Episode #733, Nathan interviews Zvi Schreiber, founder and CEO of Freightos
+* [Logistics Of War, Podcast 40 (Imperial War Museums)](http://www.iwm.org.uk/history/podcasts/voices-of-the-first-world-war/podcast-40-logistics-of-war)  
 
 ## Credits
 
