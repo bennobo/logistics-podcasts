@@ -27,7 +27,10 @@ A selection of podcasts on Supply Chain and Logistics.
 
 * [With $50M Raised, He’s Leading Cargo Container Software Space (Nathan Latka)](http://nathanlatka.com/thetop733)  
 In Episode #733, Nathan interviews Zvi Schreiber, founder and CEO of Freightos
-* [Logistics Of War, Podcast 40 (Imperial War Museums)](http://www.iwm.org.uk/history/podcasts/voices-of-the-first-world-war/podcast-40-logistics-of-war)  
+* [Logistics Of War, Podcast 40 (Imperial War Museums)](http://www.iwm.org.uk/history/podcasts/voices-of-the-first-world-war/podcast-40-logistics-of-war)
+* [Inside the secret shipping industry (Rose George, TED Talks)](https://www.ted.com/talks/rose_george_inside_the_secret_shipping_industry)  
+Almost everything we own and use, at some point, travels to us by container ship, through a vast network of ocean routes and ports that most of us know almost nothing about. Journalist Rose George tours us through the world of shipping, the underpinning of consumer civilization.
+
 
 ## Credits
 
