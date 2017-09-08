@@ -21,6 +21,7 @@ A selection of podcasts on Supply Chain and Logistics.
 | ![Talking Freight](cover/talking-freight.png) | Talking Freight | http://cerasis.com/video-talking-freight |
 | ![Talking Logistics](cover/talking-logistics.png) | Talking Logistics | https://talkinglogistics.com |
 | ![The Loadstar](cover/the-loadstar.png) | The Loadstar | https://soundcloud.com/the-loadstar |
+| ![The Shipping Pod](cover/the-shipping-pod.png) | The Shipping Pod | http://theshippingpod.libsyn.com |
 | ![Triskele Logistics - CMI Podcast](cover/triskele-logistics.png) | Triskele Logistics - CMI Podcast | https://soundcloud.com/user-380624060 |
 | ![XPO Logistics Less-Than-Truckload](cover/xpo-logistics.png) | XPO Logistics Less-Than-Truckload | https://itunes.apple.com/us/podcast/xpo-logistics-less-than-truckload/id1095360303 |
 
