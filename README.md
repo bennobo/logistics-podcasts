@@ -1,7 +1,5 @@
 # Supply Chain and Logistics Podcasts
 
-A selection of podcasts on Supply Chain and Logistics.
-
 | Cover | Title | Website |
 | :--- |:---| :--- |
 | ![Containers](cover/containers.png) | Containers | https://soundcloud.com/containersfmg |
@@ -36,7 +34,5 @@ Almost everything we own and use, at some point, travels to us by container ship
 * [Logistics Of War, Podcast 40 (Imperial War Museums)](http://www.iwm.org.uk/history/podcasts/voices-of-the-first-world-war/podcast-40-logistics-of-war)
 
 ## Credits
-
-Brought to you by:
 
 <a href="https://www.riege.com" title="Riege Software"><img src="riege-software.png" width="200" height="46" alt="Riege Software"></a>
