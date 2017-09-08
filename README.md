@@ -1,5 +1,7 @@
 # Supply Chain and Logistics Podcasts
 
+A collection of podcasts on Supply Chain and Logistics.
+
 | Cover | Title | Website |
 | :--- |:---| :--- |
 | ![Containers](cover/containers.png) | Containers | https://soundcloud.com/containersfmg |
