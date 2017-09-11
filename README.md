@@ -2,28 +2,28 @@
 
 A collection of podcasts on Supply Chain and Logistics.
 
-| Cover | Title |
-| :--- |:---|
-| ![Containers](cover/containers.png) | [Containers](https://soundcloud.com/containersfmg "Containers") |
-| ![ICC Logistics](cover/icc-logistics.png) | [ICC Logistics](https://soundcloud.com/containersfmg "ICC Logistics") |
-| ![Inbound Logistics](cover/inbound-logistics.png) | [Inbound Logistics](http://www.inboundlogistics.com/cms/podcast "Inbound Logistics") |
-| ![JOC.com ](cover/joc.png) | [JOC.com](https://soundcloud.com/the-journal-of-commerce "JOC.com") |
-| ![ISM Podcasts](cover/ism-podcasts.png) | [ISM Podcasts](https://www.instituteforsupplymanagement.org/Podcasts "ISM Podcasts") |
-| ![LOGISTICS VIEWPOINTS](cover/logistics-viewpoints.png) | [LOGISTICS VIEWPOINTS](https://logisticsviewpoints.com/resources/webcasts "LOGISTICS VIEWPOINTS") |
-| ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | [Manufacturing Talk Radio](http://mfgtalkradio.com "Manufacturing Talk Radio") |
-| ![Shipping Podcast](cover/shipping-podcast.png) | [Shipping Podcast](http://shippingpodcast.com "Shipping Podcast") |
-| ![Square One Supply Chain Podcast](cover/square-one-supply-chain-podcast.png) | [Square One Supply Chain Podcast](https://www.investcalgaryregion.ca/square-one-supply-chain-podcast "Square One Supply Chain Podcast") |
-| ![Straight Talk With Supply Chain Insights](cover/straight-talk-with-supply-chain-insights.png) | [Straight Talk With Supply Chain Insights](https://itunes.apple.com/us/podcast/straight-talk-supply-chain/id664901377 "Straight Talk With Supply Chain Insights") |
-| ![Supply Chain and Logistics Management](cover/supply-chain-and-logistics-management.png) | [Supply Chain and Logistics Management](https://itunes.apple.com/itunes-u/supply-chain-logistics-management/id447339850 "Supply Chain and Logistics Management") |
-| ![Supply Chain Radio](cover/supply-chain-radio.png) | [Supply Chain Radio](https://itunes.apple.com/de/podcast/supply-chain-radio/id983423048 "Supply Chain Radio") |
-| ![Supply Chain Secrets](cover/supply-chain-secrets.png) | [Supply Chain Secrets](http://www.logisticsbureau.com/podcasts/ "Supply Chain Secrets") |
-| ![SupplyChainBrain](cover/supplychainbrain.png) | [SupplyChainBrain](https://itunes.apple.com/us/podcast/the-supplychainbrain-podcast/id898142329 "SupplyChainBrain") |
-| ![Talking Freight](cover/talking-freight.png) | [Talking Freight](http://cerasis.com/video-talking-freight "Talking Freight") |
-| ![Talking Logistics](cover/talking-logistics.png) | [Talking Logistics](https://talkinglogistics.com "Talking Logistics") |
-| ![The Loadstar](cover/the-loadstar.png) | [The Loadstar](https://soundcloud.com/the-loadstar "The Loadstar") |
-| ![The Shipping Pod](cover/the-shipping-pod.png) | [Shipping Podcast](http://shippingpodcast.com "Shipping Podcast") | The Shipping Pod | http://theshippingpod.libsyn.com |
-| ![Triskele Logistics - CMI Podcast](cover/triskele-logistics.png) | [Triskele Logistics - CMI Podcast](https://soundcloud.com/user-380624060 "Triskele Logistics - CMI Podcast") |
-| ![XPO Logistics Less-Than-Truckload](cover/xpo-logistics.png) | [XPO Logistics Less-Than-Truckload](https://itunes.apple.com/us/podcast/xpo-logistics-less-than-truckload/id1095360303 "XPO Logistics Less-Than-Truckload") |
+| Cover | Title | Website |
+| :--- |:---| :--- |
+| ![Containers](cover/containers.png) | Containers | https://soundcloud.com/containersfmg |
+| ![ICC Logistics](cover/icc-logistics.png) | ICC Logistics | https://itunes.apple.com/us/podcast/icc-logistics/id1021736846 |
+| ![Inbound Logistics](cover/inbound-logistics.png) | Inbound Logistics | http://www.inboundlogistics.com/cms/podcast |
+| ![JOC.com ](cover/joc.png) | JOC.com  | https://soundcloud.com/the-journal-of-commerce |
+| ![ISM Podcasts](cover/ism-podcasts.png) | ISM Podcasts | https://www.instituteforsupplymanagement.org/Podcasts |
+| ![LOGISTICS VIEWPOINTS](cover/logistics-viewpoints.png) | LOGISTICS VIEWPOINTS | https://logisticsviewpoints.com/resources/webcasts/ |
+| ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
+| ![Shipping Podcast](cover/shipping-podcast.png) | Shipping Podcast | http://shippingpodcast.com |
+| ![Square One Supply Chain Podcast](cover/square-one-supply-chain-podcast.png) | Square One Supply Chain Podcast | https://www.investcalgaryregion.ca/square-one-supply-chain-podcast |
+| ![Straight Talk With Supply Chain Insights](cover/straight-talk-with-supply-chain-insights.png) | Straight Talk With Supply Chain Insights | https://itunes.apple.com/us/podcast/straight-talk-supply-chain/id664901377 |
+| ![Supply Chain and Logistics Management](cover/supply-chain-and-logistics-management.png) | Supply Chain and Logistics Management | https://itunes.apple.com/itunes-u/supply-chain-logistics-management/id447339850 |
+| ![Supply Chain Radio](cover/supply-chain-radio.png) | Supply Chain Radio | https://itunes.apple.com/de/podcast/supply-chain-radio/id983423048 |
+| ![Supply Chain Secrets](cover/supply-chain-secrets.png) | Supply Chain Secrets | http://www.logisticsbureau.com/podcasts/ |
+| ![SupplyChainBrain](cover/supplychainbrain.png) | SupplyChainBrain | https://itunes.apple.com/us/podcast/the-supplychainbrain-podcast/id898142329 |
+| ![Talking Freight](cover/talking-freight.png) | Talking Freight | http://cerasis.com/video-talking-freight |
+| ![Talking Logistics](cover/talking-logistics.png) | Talking Logistics | https://talkinglogistics.com |
+| ![The Loadstar](cover/the-loadstar.png) | The Loadstar | https://soundcloud.com/the-loadstar |
+| ![The Shipping Pod](cover/the-shipping-pod.png) | The Shipping Pod | http://theshippingpod.libsyn.com |
+| ![Triskele Logistics - CMI Podcast](cover/triskele-logistics.png) | Triskele Logistics - CMI Podcast | https://soundcloud.com/user-380624060 |
+| ![XPO Logistics Less-Than-Truckload](cover/xpo-logistics.png) | XPO Logistics Less-Than-Truckload | https://itunes.apple.com/us/podcast/xpo-logistics-less-than-truckload/id1095360303 |
 
 ## Single Episodes
 
