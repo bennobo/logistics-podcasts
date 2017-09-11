@@ -4,7 +4,6 @@ A collection of podcasts on Supply Chain and Logistics.
 
 | Cover | Title |
 | :--- |:---|
-
 | ![Containers](cover/containers.png) | [Containers](https://soundcloud.com/containersfmg "Containers") |
 | ![ICC Logistics](cover/icc-logistics.png) | [ICC Logistics](https://soundcloud.com/containersfmg "ICC Logistics") |
 | ![Inbound Logistics](cover/inbound-logistics.png) | [Inbound Logistics](http://www.inboundlogistics.com/cms/podcast "Inbound Logistics") |
