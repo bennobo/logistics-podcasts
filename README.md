@@ -5,10 +5,11 @@ A collection of podcasts on Supply Chain and Logistics.
 | Cover | Title | Website |
 | :--- |:---| :--- |
 | ![Containers](cover/containers.png) | Containers | https://soundcloud.com/containersfmg |
+| ![What The Truck?!?](cover/what-the-truck.png) | What The Truck?!? | https://www.freightwaves.com/podcasts |
 | ![ICC Logistics](cover/icc-logistics.png) | ICC Logistics | https://itunes.apple.com/us/podcast/icc-logistics/id1021736846 |
 | ![Inbound Logistics](cover/inbound-logistics.png) | Inbound Logistics | http://www.inboundlogistics.com/cms/podcast |
-| ![JOC.com ](cover/joc.png) | JOC.com  | https://soundcloud.com/the-journal-of-commerce |
 | ![ISM Podcasts](cover/ism-podcasts.png) | ISM Podcasts | https://www.instituteforsupplymanagement.org/Podcasts |
+| ![JOC.com ](cover/joc.png) | JOC.com  | https://soundcloud.com/the-journal-of-commerce |
 | ![LOGISTICS VIEWPOINTS](cover/logistics-viewpoints.png) | LOGISTICS VIEWPOINTS | https://logisticsviewpoints.com/resources/webcasts/ |
 | ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
 | ![Shipping Podcast](cover/shipping-podcast.png) | Shipping Podcast | http://shippingpodcast.com |
