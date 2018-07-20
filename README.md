@@ -20,7 +20,6 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![Supply Chain Radio](cover/supply-chain-radio.png) | Supply Chain Radio | https://itunes.apple.com/de/podcast/supply-chain-radio/id983423048 |
 | ![Supply Chain Secrets](cover/supply-chain-secrets.png) | Supply Chain Secrets | http://www.logisticsbureau.com/podcasts/ |
 | ![SupplyChainBrain](cover/supplychainbrain.png) | SupplyChainBrain | https://itunes.apple.com/us/podcast/the-supplychainbrain-podcast/id898142329 |
-| ![Talking Freight](cover/talking-freight.png) | Talking Freight | http://cerasis.com/video-talking-freight |
 | ![Talking Logistics](cover/talking-logistics.png) | Talking Logistics | https://talkinglogistics.com |
 | ![The Loadstar](cover/the-loadstar.png) | The Loadstar | https://soundcloud.com/the-loadstar |
 | ![The Shipping Pod](cover/the-shipping-pod.png) | The Shipping Pod | http://theshippingpod.libsyn.com |
