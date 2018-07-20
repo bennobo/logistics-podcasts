@@ -11,6 +11,7 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![ISM Podcasts](cover/ism-podcasts.png) | ISM Podcasts | https://www.instituteforsupplymanagement.org/Podcasts |
 | ![JOC.com ](cover/joc.png) | JOC.com  | https://soundcloud.com/the-journal-of-commerce |
 | ![LOGISTICS VIEWPOINTS](cover/logistics-viewpoints.png) | LOGISTICS VIEWPOINTS | https://logisticsviewpoints.com/resources/webcasts/ |
+| ![Next Level Purchasing Association Podcast](cover/next-level-purchasing-association-podcast.png) | Next Level Purchasing Association Podcast | https://www.nextlevelpurchasing.com/supply-management-podcast |
 | ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
 | ![Shipping Podcast](cover/shipping-podcast.png) | Shipping Podcast | http://shippingpodcast.com |
 | ![Square One Supply Chain Podcast](cover/square-one-supply-chain-podcast.png) | Square One Supply Chain Podcast | https://www.investcalgaryregion.ca/square-one-supply-chain-podcast |
