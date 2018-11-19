@@ -14,6 +14,7 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![LOGISTICS VIEWPOINTS](cover/logistics-viewpoints.png) | LOGISTICS VIEWPOINTS | https://logisticsviewpoints.com/resources/webcasts/ |
 | ![Next Level Purchasing Association Podcast](cover/next-level-purchasing-association-podcast.png) | Next Level Purchasing Association Podcast | https://www.nextlevelpurchasing.com/supply-management-podcast |
 | ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
+| ![Profiles by Chain.io](cover/profiles.png) | Profiles by Chain.io | https://itunes.apple.com/us/podcast/profiles/id1440600547 |
 | ![Shipping Podcast](cover/shipping-podcast.png) | Shipping Podcast | http://shippingpodcast.com |
 | ![Square One Supply Chain Podcast](cover/square-one-supply-chain-podcast.png) | Square One Supply Chain Podcast | https://www.investcalgaryregion.ca/square-one-supply-chain-podcast |
 | ![Straight Talk With Supply Chain Insights](cover/straight-talk-with-supply-chain-insights.png) | Straight Talk With Supply Chain Insights | https://itunes.apple.com/us/podcast/straight-talk-supply-chain/id664901377 |
