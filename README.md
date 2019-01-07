@@ -31,14 +31,15 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![XPO Logistics Less-Than-Truckload](cover/xpo-logistics.png) | XPO Logistics Less-Than-Truckload | https://itunes.apple.com/us/podcast/xpo-logistics-less-than-truckload/id1095360303 |
 
 ## Single Episodes
-
-* [The Empire Strikes Back (Asymcar by Horace Dediu, Epsiode #34)](http://5by5.tv/asymcar/34)  
-Joe Rosmann shares his experience and perspective on our changing transportation system - "the most regulated industry we have".
-* [With $50M Raised, He’s Leading Cargo Container Software Space (Nathan Latka)](http://nathanlatka.com/thetop733)  
+* 2018/08/30: [Ryan Petersen on Building Flexport, a Modern Freight Forwarder (Y Combinator)](https://blog.ycombinator.com/ryan-petersen-on-building-flexport-a-modern-freight-forwarder/)
+Flexport is a global freight forwarder powered by software and analytics. They are making international trade easier for over 10,000 companies in 70 countries. They were part of the YC Winter 2014 batch.
+* 2018/06/06: [Logistics Of War, Podcast 40 (Imperial War Museums)](http://www.iwm.org.uk/history/podcasts/voices-of-the-first-world-war/podcast-40-logistics-of-war)
+* 2017/07/17: [With $50M Raised, He’s Leading Cargo Container Software Space (Nathan Latka)](http://nathanlatka.com/thetop733)  
 In Episode #733, Nathan interviews Zvi Schreiber, founder and CEO of Freightos
-* [Inside the secret shipping industry (Rose George, TED Talks)](https://www.ted.com/talks/rose_george_inside_the_secret_shipping_industry)  
+* 2017/06/08: [The Empire Strikes Back (Asymcar by Horace Dediu, Epsiode #34)](http://5by5.tv/asymcar/34)  
+Joe Rosmann shares his experience and perspective on our changing transportation system - "the most regulated industry we have".
+* 2013/10: [Inside the secret shipping industry (Rose George, TED Talks)](https://www.ted.com/talks/rose_george_inside_the_secret_shipping_industry)  
 Almost everything we own and use, at some point, travels to us by container ship, through a vast network of ocean routes and ports that most of us know almost nothing about. Journalist Rose George tours us through the world of shipping, the underpinning of consumer civilization.
-* [Logistics Of War, Podcast 40 (Imperial War Museums)](http://www.iwm.org.uk/history/podcasts/voices-of-the-first-world-war/podcast-40-logistics-of-war)
 
 ## Credits
 
