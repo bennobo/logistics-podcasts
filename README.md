@@ -32,7 +32,6 @@ A collection of podcasts on Supply Chain and Logistics.
 
 ## Single Episodes
 * 2018/08/30: [Ryan Petersen on Building Flexport, a Modern Freight Forwarder (Y Combinator)](https://blog.ycombinator.com/ryan-petersen-on-building-flexport-a-modern-freight-forwarder/)
-Flexport is a global freight forwarder powered by software and analytics. They are making international trade easier for over 10,000 companies in 70 countries. They were part of the YC Winter 2014 batch.
 * 2018/06/06: [Logistics Of War, Podcast 40 (Imperial War Museums)](http://www.iwm.org.uk/history/podcasts/voices-of-the-first-world-war/podcast-40-logistics-of-war)
 * 2017/07/17: [With $50M Raised, He’s Leading Cargo Container Software Space (Nathan Latka)](http://nathanlatka.com/thetop733)  
 In Episode #733, Nathan interviews Zvi Schreiber, founder and CEO of Freightos
