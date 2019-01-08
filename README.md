@@ -11,7 +11,7 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![Inbound Logistics](cover/inbound-logistics.png) | Inbound Logistics | http://www.inboundlogistics.com/cms/podcast |
 | ![ISM Podcasts](cover/ism-podcasts.png) | ISM Podcasts | https://www.instituteforsupplymanagement.org/Podcasts |
 | ![JOC.com ](cover/joc.png) | JOC.com  | https://soundcloud.com/the-journal-of-commerce |
-| ![Let‘s Talk Supply Chain](cover/letstalksupplychain.png) | Let‘s Talk Supply Chain | https://www.letstalksupplychain.com |
+| ![Let‘s Talk Supply Chain](cover/lets-talk-supplychain.png) | Let‘s Talk Supply Chain | https://www.letstalksupplychain.com |
 | ![LOGISTICS VIEWPOINTS](cover/logistics-viewpoints.png) | LOGISTICS VIEWPOINTS | https://logisticsviewpoints.com/resources/webcasts/ |
 | ![Next Level Purchasing Association Podcast](cover/next-level-purchasing-association-podcast.png) | Next Level Purchasing Association Podcast | https://www.nextlevelpurchasing.com/supply-management-podcast |
 | ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
@@ -25,6 +25,7 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![SupplyChainBrain](cover/supplychainbrain.png) | SupplyChainBrain | https://itunes.apple.com/us/podcast/the-supplychainbrain-podcast/id898142329 |
 | ![Talking Logistics](cover/talking-logistics.png) | Talking Logistics | https://talkinglogistics.com |
 | ![The Loadstar](cover/the-loadstar.png) | The Loadstar | https://soundcloud.com/the-loadstar |
+| ![The Logistics Podcast](cover/the-logistics-podcast.png) | The Logistics Podcast | https://www.shdlogistics.com/podcast |
 | ![The Shipping Pod](cover/the-shipping-pod.png) | The Shipping Pod | http://theshippingpod.libsyn.com |
 | ![Triskele Logistics - CMI Podcast](cover/triskele-logistics.png) | Triskele Logistics - CMI Podcast | https://soundcloud.com/user-380624060 |
 | ![What The Truck?!?](cover/what-the-truck.png) | What The Truck?!? | https://www.freightwaves.com/podcasts |
