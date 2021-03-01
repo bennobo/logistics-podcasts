@@ -7,7 +7,7 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![Aborn & Co](cover/aborn-and-co.png) | Aborn & Co | https://abornandcompany.podbean.com |
 | ![Cargoholic](cover/cargoholic.png) | Cargoholic | https://itunes.apple.com/us/podcast/cargoholic-the-ultimate-logistics-podcast/id1269441609 |
 | ![Containers](cover/containers.png) | Containers | https://soundcloud.com/containersfmg |
-| ![DVZ Der Podcast](cover/dvz.png) | DVZ Der Podcast | https://soundcloud.com/user-46223854 |
+| ![DVZ Der Podcast](cover/dvz.png) | DVZ Der Podcast | https://www.dvz.de/rubriken/logistik/detail/news/dvz-der-podcast.html |
 | ![ETA.fm](cover/eta-fm.png) | ETA.fm | https://eta.fm |
 | ![FlyingTalkers ](cover/flyingtalkers.png) | FlyingTalkers  | https://www.stitcher.com/podcast/anchor-podcasts/flying-typers-cargo-talks |
 | ![ICC Logistics](cover/icc-logistics.png) | ICC Logistics | https://itunes.apple.com/us/podcast/icc-logistics/id1021736846 |
