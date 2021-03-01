@@ -20,6 +20,7 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![LOGISTICS VIEWPOINTS](cover/logistics-viewpoints.png) | LOGISTICS VIEWPOINTS | https://logisticsviewpoints.com/resources/webcasts/ |
 | ![Next Level Purchasing Association Podcast](cover/next-level-purchasing-association-podcast.png) | Next Level Purchasing Association Podcast | https://www.nextlevelpurchasing.com/supply-management-podcast |
 | ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
+| ![Max und die SupplyChainHelden](cover/max-und-die-supply-chain-helden.png) | Max und die SupplyChainHelden | https://supplychainhelden.de/ |
 | ![Profiles by Chain.io](cover/profiles.png) | Profiles by Chain.io | https://itunes.apple.com/us/podcast/profiles/id1440600547 |
 | ![Rates & Lanes](cover/rates-and-lanes.png) | Rates & Lanes | http://www.blogtalkradio.com/rates |
 | ![Shipping Podcast](cover/shipping-podcast.png) | Shipping Podcast | http://shippingpodcast.com |
