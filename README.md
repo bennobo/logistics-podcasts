@@ -17,6 +17,7 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![JOC.com ](cover/joc.png) | JOC.com  | https://soundcloud.com/the-journal-of-commerce |
 | ![Leaders in Supply Chain and Logistics](cover/leaders-in-supply-chain-and-logistics.png) | Leaders in Supply Chain and Logistics | https://www.alcottglobal.com/podcast/leaders-in-supply-chain-podcast/ |
 | ![Let‘s Talk Supply Chain](cover/lets-talk-supplychain.png) | Let‘s Talk Supply Chain | https://www.letstalksupplychain.com |
+| ![Living Logistics ](cover/living-logistics.png) | Living Logistics | https://www.dpdhl.com/de/presse/podcast.html  |
 | ![LOGISTICS VIEWPOINTS](cover/logistics-viewpoints.png) | LOGISTICS VIEWPOINTS | https://logisticsviewpoints.com/resources/webcasts/ |
 | ![Next Level Purchasing Association Podcast](cover/next-level-purchasing-association-podcast.png) | Next Level Purchasing Association Podcast | https://www.nextlevelpurchasing.com/supply-management-podcast |
 | ![Manufacturing Talk Radio](cover/manufacturing-talk-radio.png) | Manufacturing Talk Radio | http://mfgtalkradio.com |
