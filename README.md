@@ -35,6 +35,8 @@ A collection of podcasts on Supply Chain and Logistics.
 | ![The Loadstar](cover/the-loadstar.png) | The Loadstar | https://soundcloud.com/the-loadstar |
 | ![The Logistics Podcast](cover/the-logistics-podcast.png) | The Logistics Podcast | https://www.shdlogistics.com/podcast |
 | ![The Shipping Pod](cover/the-shipping-pod.png) | The Shipping Pod | http://theshippingpod.libsyn.com |
+| ![The Logistics Tribe](cover/the-logistics-tribe.png) | The Logistics Tribe | https://logisticstribe.podigee.io/ |
+
 | ![Triskele Logistics - CMI Podcast](cover/triskele-logistics.png) | Triskele Logistics - CMI Podcast | https://soundcloud.com/user-380624060 |
 | ![What The Truck?!?](cover/what-the-truck.png) | What The Truck?!? | https://www.freightwaves.com/podcasts |
 | ![XPO Logistics Less-Than-Truckload](cover/xpo-logistics.png) | XPO Logistics Less-Than-Truckload | https://player.fm/series/xpo-logistics-less-than-truckload |
